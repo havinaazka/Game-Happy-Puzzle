@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 354289a3bd3033c409d9482d4c357393
+timeCreated: 1634267434
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GREENSEA
+  fontNames:
+  - GREENSEA
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b5d939b2a910ede41a304ed19d082d43, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
